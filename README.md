@@ -11,9 +11,6 @@ This is a simple game based on the hit game Space Invaders
 ## Play the Game
 [![Play on itch.io](https://i.imgur.com/dD97spb.png)](https://cptz.itch.io/bug-buster)
 
-## Releases
-For the latest updates and releases, visit the [Releases](https://github.com/CptZee/bug-buster/releases) page.
-
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
